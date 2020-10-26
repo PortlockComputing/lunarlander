@@ -1,0 +1,42 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAADAz6o6090NAMzMOqoz3d0NzMyvqjPd3d0Az6w6PdPdAPDMPKoz0w0AzMysOtPTDQDA/KqqM90AAPDMo6oz3QAAzMyqozPdDQDMzKyqPd3dDcDPrDoz090AwMyqqjPTDQDMzKqj09MAAPDMo6oz3Q0AzPysqj3d3QDAzDo6M90AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAgNMPd3d3d3SLD3R0RERERIsPdDQAAABBEw93d3d3d3ULD3R0RERERQsPdDQAAABBCw90NAAAAEETD3d3d3d3dRMPd3d3d3d1Cw90NAAAAEELD3Q0AAAAQQsPdHRERERFEw93d3d3d3SLD3Q0AAAAQIsPdHREREREgNMPd3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile3": {
+        "data": "hwQQABAAAAAAAAAw090NAADMOqoz3d0NwMyvqjPd3d0Az6w6PdPdAPDMPKoz0w0AzMysOtPTDQDA/KqqM90AAPDMo6oz3QAAzMyqozPdDQDMzKyqPd3dDcDPrDoz090AwMyqqjPTDQDMzKqj09MAAPDMo6oz3Q0AzPysqj3d3QDAzDo6M90AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile4": {
+        "data": "hwQQABAAAADAz6o6090NAMzMOqoz3d0NzMyvqjPd3d0Az6w6PdPdAPDMPKoz0w0AzMysOtPTDQDA/KqqM90AAPDMo6oz3QAAzMyqozPdDQDMzKyqPd3dDcDPrDoz090AwMyqqjPTDQDAzKqj09MAAADMo6oz3Q0AAACsqj3d3QAAAAA6M90AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAABQBwAAAFAAdQB3AAAAcABwAHUAAAAAB3B3dwcAAFB3dwAHBwAAAHAHAAB3APAAAAAAAHB37wB1dwAAAHXnAHdwBQBwV+8AAAAHAHAA8AAAd3d3dwAAAHAHcAAAAABwdwB1AAAAAHAAAHcAAAAAUAB3BwAAAAAAUAcAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile6": {
+        "data": "hwQQABAAAAAAAAC7AAAAAAAAsMwLAAAAAADLzLwAcAcAsMx8zLsHcACwzHfHywcAAMvMd8e7DQcAy3wRcdt3cADLfPFxew0AAMt8EXHbd3AAy8x3x7sNBwCwzHfHywcAALDMfMy7B3AAAMvMvABwBwAAsMwLAAAAAAAAuwAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
